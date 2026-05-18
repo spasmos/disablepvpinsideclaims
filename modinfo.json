@@ -1,0 +1,16 @@
+{
+  "type": "code",
+  "modid": "disablepvpinsideclaims",
+  "name": "DisablePvPInsideClaims",
+  "side": "server",
+  "requiredOnClient": false,
+  "requiredOnServer": true,
+  "authors": [
+    "spasmos"
+  ],
+  "description": "Disables player-vs-player damage inside land claims while leaving PvE combat untouched.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}
